@@ -2,8 +2,6 @@
 # encoding: utf-8
 '''
 @author: Ren
-@license: (C) Copyright 2019-2020, 深圳市通用互联科技有限责任公司. 
-@contact: renyw@gidomino.com
 @file: test_mllib.py
 @time: 2019-05-06 17:33
 @desc: 在此写上代码文件的功能描述
