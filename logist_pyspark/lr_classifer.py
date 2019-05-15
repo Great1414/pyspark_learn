@@ -2,8 +2,6 @@
 # encoding: utf-8
 '''
 @author: Ren
-@license: (C) Copyright 2019-2020, GI.
-@contact: renyw@gidomino.com
 @file: lr_classifer.py
 @time: 2019-05-10 10:24
 @desc: logistic for classifier by pyspark
